@@ -1,0 +1,11 @@
+{
+  "account": "YOUR_ACCOUNT",
+  "customercode": "YOUR_SCHOOL_CODE",
+  "rooms": [
+    {
+      "id": "room1",
+      "name": "你的校区-楼栋-房间",
+      "roomverify": "ROOM_VERIFY_CODE"
+    }
+  ]
+}
